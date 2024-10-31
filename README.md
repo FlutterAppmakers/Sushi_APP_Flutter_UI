@@ -1,6 +1,6 @@
-### sliver_sync_tabs
+### Sushi App - Flutter UI
 
-A new Flutter project.
+Nice clean Sushi app UI using flutter.
 
 ### **Sliver APP Final UI**
 
