@@ -1,6 +1,6 @@
 ### Sushi App - Flutter UI
 
-Nice clean Sushi app UI using flutter.Learn how to create Sliver with synchronized tabs, custom animations horizontal and vertical scrolling, and more.
+Nice clean Sushi app UI using Flutter. Learn how to create Sliver with synchronized tabs, custom animations horizontal and vertical scrolling, and more.
 
 [Watch it on YouTube](https://youtu.be/qYQkCziijeE)
 
